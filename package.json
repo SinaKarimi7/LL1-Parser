@@ -1,0 +1,28 @@
+{
+  "name": "ll1-parser",
+  "version": "1.0.0",
+  "description": "A simple LL(1) parser with parsing table and parse input text step by step. Implemented in node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SinaKarimi7/LL1-Parser.git"
+  },
+  "keywords": [
+    "ll1",
+    "parser",
+    "compiler",
+    "parsing_table"
+  ],
+  "author": "Sina Karimi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SinaKarimi7/LL1-Parser/issues"
+  },
+  "homepage": "https://github.com/SinaKarimi7/LL1-Parser#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1"
+  }
+}
